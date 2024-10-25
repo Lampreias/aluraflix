@@ -1,0 +1,14 @@
+body {
+    color: whitesmoke;
+    background: #8d3232;
+margin: 0px
+
+}
+
+
+header {
+ border-bottom: solid 1px whitesmoke ;
+ padding: 8px;
+ font-size: 24px;
+ color: #ebb49f
+}
